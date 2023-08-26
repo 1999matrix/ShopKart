@@ -19,10 +19,8 @@
     9. admin can change the status of a product (processing, shipped, delivered, etc.)
 
 ## Installation process
-1. #### clone the repo using this command
-    ```bash
-    git clone https://github.com/ashraf-kabir/mern-ecommerce.git
-    ```
+1. #### clone the repo using command
+   
 2. #### install npm packages
     1. install backend packages
     ```bash
@@ -68,4 +66,4 @@
     ```
     #### note: both backend & frontend server will start at once with the above command.
 
-6. <b>Deployed on</br> https://ecommerce-ak.herokuapp.com/ 
+6. <b>Deployed on</br> 
