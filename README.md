@@ -66,4 +66,4 @@
     ```
     #### note: both backend & frontend server will start at once with the above command.
 
-6. <b>Deployed on</br> 
+6. <b>Deployed on</br> fancy-scarf.cyclic.app/
